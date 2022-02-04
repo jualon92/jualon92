@@ -7,7 +7,7 @@
 
 - 🌱 Estoy aprendiendo **Python, Flutter**
 
-- 🤝 Buscar ayudar en **desarrollo web, bots**
+- 🤝 Buscar ayudar en **desarrollo web, bots, cualquier cosa relacionada con java**
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
