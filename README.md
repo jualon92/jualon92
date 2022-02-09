@@ -5,9 +5,9 @@
 &nbsp;  
 - 🔭 Actualmente estoy trabajando en [ecommerce-02](https://github.com/jualon92/ecommerce-2)
 
-- 🌱 Estoy aprendiendo **Python, Flutter**
+- 🌱 Estoy aprendiendo **Python**
 
-- 🤝 Buscar ayudar en **desarrollo web, bots**
+- 🤝 Buscar ayudar en **desarrollo web, pybot**
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
