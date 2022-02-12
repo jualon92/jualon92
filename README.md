@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
-- 🔭 Actualmente estoy trabajando en [ecommerce-02](https://github.com/jualon92/ecommerce-2)
+- 🔭 Actualmente estoy trabajando en [ecommerce-02](https://github.com/jualon92/ecommerce-2),  [calculadora-web](https://github.com/jualon92/calculadora-web)
 
-- 🌱 Estoy aprendiendo **Python**
+- 🌱 Busco mejorar mis habilidades en css/html/js
 
-- 🤝 Buscar ayudar en **desarrollo web, pybot**
+- 🤝 Buscar ayudar en **desarrollo web**
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
