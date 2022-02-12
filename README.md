@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
-- 🔭 Actualmente estoy trabajando en [ecommerce-02](https://github.com/jualon92/ecommerce-2),  [calculadora-web](https://github.com/jualon92/calculadora-web)
+- 🔭 Actualmente estoy trabajando en: 
+
+### [ecommerce-02](https://github.com/jualon92/ecommerce-2)
+### [calculadora-web](https://github.com/jualon92/calculadora-web)
+
+
 
 - 🌱 Busco mejorar mis habilidades en css/html/js
 
