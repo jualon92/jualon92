@@ -8,9 +8,7 @@
 ### [ecommerce-02](https://github.com/jualon92/ecommerce-2)
 ### [calculadora-web](https://github.com/jualon92/calculadora-web)
 
-
-
-- 🌱 Busco mejorar mis habilidades en css/html/js
+-🌱  Estoy aprendiendo:  Figma |  Typescript
 
 - 🤝 Buscar ayudar en **desarrollo web**
 
