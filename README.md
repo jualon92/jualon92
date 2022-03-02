@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
+
 - 🔭 Actualmente estoy trabajando en: 
 
-### [ecommerce-02](https://github.com/jualon92/ecommerce-2)
-### [calculadora-web](https://github.com/jualon92/calculadora-web)
+### [restaurante-tortuga](https://github.com/jualon92/restaurante-tortuga)
+ 
 
-- 🌱  Estoy aprendiendo:  Figma |  Typescript
+- 🌱  Estoy aprendiendo:  prototipado con Figma | Typescript | Dart 
 
-- 🤝 Buscar ayudar en **desarrollo web**
+- 🤝 Buscar ayudar en **desarrollo web** 
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
