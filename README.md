@@ -9,7 +9,7 @@
 ### [restaurante-tortuga](https://github.com/jualon92/restaurante-tortuga)
  
 
-- 🌱  Estoy aprendiendo:  prototipado con Figma | Typescript | Dart 
+- 🌱  Estoy aprendiendo:  JS PWA
 
 - 🤝 Buscar ayudar en **desarrollo web** 
 
