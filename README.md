@@ -7,7 +7,7 @@
 - 🔭 Actualmente estoy trabajando en: 
 
 ### [restaurante-tortuga](https://github.com/jualon92/restaurante-tortuga)
- 
+### [Bot Discord con discord.py](https://github.com/jualon92/BotAmigableDiscord)
 
 - 🌱  Estoy aprendiendo:  JS PWA
 
