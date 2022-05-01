@@ -5,13 +5,9 @@
 &nbsp;  
 
 - 🔭 Actualmente estoy trabajando en: 
+    ### [reviewRatingEnSvelte](https://github.com/jualon92/reviewRatingEnSvelte)
 
-### [restaurante-tortuga](https://github.com/jualon92/restaurante-tortuga)
-### [Bot Discord con discord.py](https://github.com/jualon92/BotAmigableDiscord)
-
-- 🌱  Estoy aprendiendo:  Svelte
-
-- 🤝 Buscar ayudar en **desarrollo web** 
+- 🌱  Estoy aprendiendo:  Svelte 
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
