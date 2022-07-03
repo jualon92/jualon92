@@ -5,10 +5,9 @@
 &nbsp;  
 
 - 🔭 Actualmente estoy trabajando en: 
-    ### [reviewRatingEnSvelte](https://github.com/jualon92/reviewRatingEnSvelte)
-    ### [l2clanUtilities](https://github.com/jualon92/l2ClanUtilities)
+    ###  home-sensordata.herokuapp.com/
 
-- 🌱  Estoy aprendiendo:  Svelte 
+- 🌱  Estoy aprendiendo:  Spring Boot, React, Python 
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
