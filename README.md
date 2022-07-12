@@ -7,7 +7,7 @@
 - 🔭 Actualmente estoy trabajando en: 
     ### [ home-sensordata.herokuapp.com/](https://home-sensordata.herokuapp.com/)
 
-- 🌱  Estoy aprendiendo:  Spring Boot, React, Python 
+- 🌱  Estoy aprendiendo:  Spring Boot, React
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
