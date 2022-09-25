@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
 
-- 🔭 Actualmente estoy trabajando en: 
-    ### [ home-sensordata.herokuapp.com/](https://home-sensordata.herokuapp.com/)
-    ### https://github.com/jualon92/esp32-weatherStation
-
-- 🌱  Estoy aprendiendo:  Spring Boot, React
+ 
+- 🌱  Trabajo con : Next + Mui.   
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
