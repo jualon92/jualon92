@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
 
- 
 - 🌱  Trabajo con : Next + Mui.   
+
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
 
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 <a href=https://www.linkedin.com/in/juan-ignacio-londra-85093a181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-ignacio-londra-85093a181/" height="30" width="40" /></a>
 </p>
