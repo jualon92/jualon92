@@ -1,5 +1,5 @@
 <h1 align="center">Hola!👋,  me llamo Juan Ignacio</h1>
-<h3 align="center">Desarrollador y fanatico del café :coffee: </h3>
+<h3 align="center">Desarrollador y fanatico del té verde🍵  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
