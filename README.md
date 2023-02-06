@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
 
-- 🌱  Actualmente estoy utilizando : Next + Mui + mongo.   
-
+- 🔭  Trabajo con Next + Mui + mongo para web apps empresariales.   
+- 🌱 aprendo COBOL en mi tiempo libre , si ves algun error, no dudes en dejar un comment!
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
