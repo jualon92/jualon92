@@ -5,7 +5,6 @@
 &nbsp;  
 
 - 🔭  Trabajo con Next + Mui + mongo para web apps empresariales.   
-- 🌱 aprendo COBOL en mi tiempo libre , si ves algun error, no dudes en dejar un comment!
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
