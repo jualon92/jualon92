@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jualon92&label=Profile%20views&color=0e75b6&style=flat" alt="jualon92" /> </p>
 &nbsp;  
 
-- 🔭  Trabajo con Next + Mui + mongo para web apps empresariales.   
+- 🔭  Trabajo con Next.js y Angular para web apps empresariales.   
 
 - 📫 Podes dejarme un mensaje en **londrajuan@gmail.com**
 
